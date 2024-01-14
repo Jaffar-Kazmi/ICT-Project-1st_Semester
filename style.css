@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    list-style: none;
+    padding: 0 15px;
+}
+
+.main {
+    background-image: url(https://uaf.edu.pk/directorates/it/images/ITRCDB.jpg);
+    width: 1522px;
+    height: 670px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.quo {
+    background: url(https://www.mq.edu.au/__data/assets/image/0006/1281228/session1-applications-desktop.png);
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    color: white;
+}
+
+.quo h3 {
+    font-size: 30px;
+    padding: -1px 0px;
+    margin-left: 115px;
+    position: relative;
+    top: 71px;
+    color: #fef5ec;
+}
+
+.quo p {
+    font-size: 20px;
+    padding: 90px 0;
+    margin-right: 829px;
+    margin-left: 118px;
+    color: #fef5ec;
+}
+
+
+
+/* ************* */
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.main {
+    background-image: url(https://studyco.com/db/files/images/content/aa_gallery_photo27-7730204.jpg);
+    width: 100%;
+    height: 910px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 55px;
+
+}
+
+.hdbak {
+    background-color: #fef5ec;
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 20px;
+    color: #1a8aaf;
+    position: relative;
+    bottom: 90px;
+    left: 465px;
+    text-decoration: none;
+    font-family: 'Times New Roman';
+    font-weight: 600;
+    font-size: x-large;
+    transition: all 1s ease-out;
+}
+
+.btn:hover {
+    border: 1px solid #1a8aaf;
+
+}
+
+.logo {
+    margin-left: 125px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.box {
+    background-color: black;
+    filter: opacity(0.5);
+    width: 100%;
+    height: 910px;
+
+}
+
+.content {
+    color: white;
+    padding: 150px 100px;
+}
+
+.content h3 {
+    font-size: 30px;
+    padding: 0px 0px;
+}
+
+.content h1 {
+    font-size: 40px;
+    padding: 20px 0px;
+}
+
+.content p {
+    font-size: 20px;
+    padding: 20px 0;
+    margin-right: 770px;
+}
+
+.h3 {
+    font-size: xx-large;
+    color: #1a8aaf;
+    margin-top: 30px;
+    margin-right: 920px;
+    margin-left: 150px;
+}
+
+.bod {
+    display: flex;
+    justify-content: center;
+}
+
+.bod p {
+    margin-top: 30px;
+    margin-right: 120px;
+    margin-left: 150px;
+}
+
+.card-box {
+    background-color: #1a8aaf;
+    height: 320px;
+    width: 5900px;
+    margin: 0 120px;
+    position: relative;
+    bottom: 45px;
+    border-radius: 40px;
+}
+
+.card-box img {
+    height: 250px;
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+}
+
+.card-box span {
+    font-size: small;
+    color: #fef5ec;
+    display: block;
+    position: relative;
+    bottom: 200px;
+    left: 285px;
+}
+
+.card-box p {
+    font-size: small;
+    color: #fef5ec;
+    display: block;
+    position: relative;
+    bottom: 200px;
+    left: 135px;
+}
+
+.links {
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.links:hover {
+    background-color: #1a8aaf;
+    color: #fef5ec;
+}
+
+
+.card-1 {
+    display: flex;
+    margin: 50px 150px;
+}
+
+.card-1-content {
+    font-size: x-large;
+    margin-right: 300px;
+}
+
+.card-1 img {
+    height: 220px;
+    border-radius: 20px;
+}
+
+.head-1 {
+    color:#1a8aaf;
+    font-size: larger;
+    margin-left: 190px;
+    padding-top: 150px;
+    margin-right: 590px;
+}
+.images {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 165px;
+}
+
+
+.foot {
+    background-color: #fef5ec;
+    color: #1a8aaf;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+/* +++++++ */
+
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    footer {
+      background-color: #fef5ec;
+      color:#1a8aaf;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .footer-content {
+      display: flex;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-section {
+      flex: 1;
+      padding: 10px;
+    }
+
+    .footer-section h3 {
+      margin-bottom: 10px;
+    }
+
+    .footer-section ul {
+
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 8px;
+      text-decoration:none;
+      list-style: none;
+    }
+
